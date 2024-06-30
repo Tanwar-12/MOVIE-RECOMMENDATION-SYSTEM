@@ -82,7 +82,7 @@ Enhance the personalization of recommendations with a Content-Based Recommendati
    
 5. **Open the web browser and go to the local host1to explore the Movie Recommendation System.**
 
-##  Data Exploration and Analysis (Jupyter Notebook)
+##  Data Exploration and Analysis :
 
 ### Step 1: Loading Data
 
